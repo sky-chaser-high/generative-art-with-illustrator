@@ -18,7 +18,7 @@ Illustrator CS6 or higher
 
 
 
-## Structre
+## Structure
 #### [Width and Height](https://p5js.org/examples/structure-width-and-height.html)
 ![Width and Height](./images/WidthAndHeight.png)
 
@@ -52,6 +52,9 @@ Illustrator CS6 or higher
 #### [Distance 2D](https://p5js.org/examples/math-distance-2d.html)
 ![Distance 2D](./images/Distance2D.png)
 
+#### [Sine Wave](https://p5js.org/examples/math-sine-wave.html)
+![Sine Wave](./images/SineWave.png)
+
 #### [Additive Wave](https://p5js.org/examples/math-additive-wave.html)
 ![Additive Wave](./images/AdditiveWave.png)
 
@@ -64,8 +67,20 @@ Illustrator CS6 or higher
 #### [Random Chords](https://p5js.org/examples/math-random-chords.html)
 ![Random Chords](./images/RandomChords.png)
 
+#### [Parametric Equations](https://p5js.org/examples/math-parametric-equations.html)
+![Parametric Equations](./images/ParametricEquations.png)
 
 
-# Licence
+
+## Simulate
+#### [Particle System](https://p5js.org/examples/simulate-particle-system.html)
+![Particle System](./images/ParticleSystem.png)
+
+#### [Brownian Motion](https://p5js.org/examples/simulate-brownian-motion.html)
+![Brownian Motion](./images/BrownianMotion.png)
+
+
+
+# License
 All scripts are licensed under the MIT license.  
 See the included LICENSE file for more details.  

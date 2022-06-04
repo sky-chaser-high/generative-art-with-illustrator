@@ -62,3 +62,23 @@ function shuffle(array) {
     }
     return array;
 }
+
+
+/**
+ * Constrains a value between a minimum and maximum value.
+ * @param {number} n number to constrain.
+ * @param {number} low minimum limit.
+ * @param {number} high maximum limit.
+ * @returns {number} constrained number.
+ */
+ function constrain(n, low, high) {
+    if (n < low) {
+        return low;
+    }
+    else if (n > high) {
+        return high;
+    }
+    else {
+        return n;
+    }
+}
