@@ -76,6 +76,9 @@ Illustrator CS6 or higher
 #### [Particle System](https://p5js.org/examples/simulate-particle-system.html)
 ![Particle System](./images/ParticleSystem.png)
 
+#### [Spirograph](https://p5js.org/examples/simulate-spirograph.html)
+![Spirograph](./images/Spirograph.png)
+
 #### [Brownian Motion](https://p5js.org/examples/simulate-brownian-motion.html)
 ![Brownian Motion](./images/BrownianMotion.png)
 
