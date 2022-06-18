@@ -79,8 +79,14 @@ Illustrator CS6 or higher
 #### [Spirograph](https://p5js.org/examples/simulate-spirograph.html)
 ![Spirograph](./images/Spirograph.png)
 
+#### [L-Systems](https://p5js.org/examples/simulate-l-systems.html)
+![L-Systems](./images/L-Systems.png)
+
 #### [Brownian Motion](https://p5js.org/examples/simulate-brownian-motion.html)
 ![Brownian Motion](./images/BrownianMotion.png)
+
+#### [Particles](https://p5js.org/examples/simulate-particles.html)
+![Particles](./images/Particles.png)
 
 
 
